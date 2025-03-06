@@ -1,2 +1,2 @@
 # performance-playbook
-My devlog of performance improvements.
+A devlog of performance improvements.
